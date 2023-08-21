@@ -4,6 +4,7 @@
   <li>I'm Full Stack Developer</li>
   <li>My skills: JavaScript (React,React Native), Python (Django), C# (ASP.NET)</li>
   <li>Piano lover</li>
+  <li>Cooking lover</li>
 </ul>
 
 ### What I'm up to
