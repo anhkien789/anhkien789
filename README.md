@@ -1,4 +1,5 @@
 ### About me
+<hr />
 <ul>
   <li>I'm Full Stack Developer</li>
   <li>My skills: JavaScript (React,React Native), Python (Django), C# (ASP.NET)</li>
@@ -6,6 +7,7 @@
 </ul>
 
 ### What I'm up to
+<hr />
 <ul>
   <li>Learning new technologies and practicing them.</li>
 </ul>
