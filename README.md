@@ -1,4 +1,14 @@
-### Hi there 👋
+### About me
+<ul>
+  <li>I'm Full Stack Developer</li>
+  <li>My skills: JavaScript (React,React Native), Python (Django), C# (ASP.NET)</li>
+  <li>Piano lover</li>
+</ul>
+
+### What I'm up to
+<ul>
+  <li>Learning new technologies and practicing them.</li>
+</ul>
 
 <!--
 **anhkien789/anhkien789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
